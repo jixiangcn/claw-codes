@@ -131,6 +131,21 @@ The implementation is being rebuilt independently with a focus on clean design a
 
 ---
 
+## Star History
+
+This repository gained traction after i backed up the code in just few hours
+## Star History
+
+<a href="https://www.star-history.com/?repos=0xKarl-dev%2Fclaw-codes&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=0xKarl-dev/claw-codes&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=0xKarl-dev/claw-codes&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=0xKarl-dev/claw-codes&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.
